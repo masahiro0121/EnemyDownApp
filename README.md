@@ -1,6 +1,6 @@
 ## MySQLの設定
 - **データベース名**： enemy_down
-  - **テーブル名**： game_config, player_score, spawn_enemy
+  - **テーブル名**： game_config｜player_score｜spawn_enemy
 #### game_config
 | id | game_time | difficulty |
 | ---- | ---- | ---- |
@@ -13,7 +13,7 @@
 | ---- | ---- | ---- | ---- | ---- |
 | 1 | masahiro | 193 | normal | 1993-01-21 |
 
-#### player_score
+#### spawn_enemy
 | id | difficulty | enemy_name | score |
 | ---- | ---- | ---- | ---- |
 | 1 | eady | ZOMBIE | 10 |
