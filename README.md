@@ -9,7 +9,7 @@
 | 3 | 40 | hard |
 
 #### player_score
-| id | playerName | score | difficulty | registeredAt |
+| id | player_name | score | difficulty | registered_at |
 | ---- | ---- | ---- | ---- | ---- |
 | 1 | masahiro | 193 | normal | 1993-01-21 |
 
