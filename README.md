@@ -16,6 +16,6 @@
 #### spawn_enemy
 | id | difficulty | enemy_name | score |
 | ---- | ---- | ---- | ---- |
-| 1 | eady | ZOMBIE | 10 |
+| 1 | easy | ZOMBIE | 10 |
 | 2 | normal| SKELETON | 20 |
 | 3 | hard| WITCH | 30 |
