@@ -1,3 +1,6 @@
+## 概要
+デイトラにて学習中に作成した別のミニゲーム「EnemyDown」のDB上にある難易度設定を取得、更新、追加するアプリです。
+
 ## MySQLの設定
 - **データベース名**： enemy_down
   - **テーブル名**： game_config｜player_score｜spawn_enemy
