@@ -4,6 +4,7 @@
 ## 開発環境
 - Java 21
 - MySQL 8.0.43
+- MyBatis 3.5.19
 - SpringBoot 3.5.6
 
 ## データベースの情報
